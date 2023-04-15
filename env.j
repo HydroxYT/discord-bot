@@ -1,0 +1,7 @@
+# Your Discord bot's token.
+DISCORD_TOKEN=MTA5NjMxMDE2NzgzNjA0NTM0NA.G7otx_.MApBCJyHc-hv4FAlgnYkAday-HdTga_K0VcB78
+# Your Discord ID.
+botmaintainer=206137597108551691
+
+#Your Discord bot's client ID.
+client_id=1096310167836045344
